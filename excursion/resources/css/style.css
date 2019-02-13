@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+div.content {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+}
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h4 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  font-weight: lighter;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+.logo {
+  text-align: right;
+}
