@@ -33,9 +33,10 @@ img {
   border-radius: 3px;
 }
 
-strong {
-  color: #000000;
+.item span {
+  color: #0366D6;
   font-style: italic;
+  font-weight: bold;
 }
 
 p {
